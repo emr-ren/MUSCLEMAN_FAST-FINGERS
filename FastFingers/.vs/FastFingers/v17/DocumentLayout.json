@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TheGames\\FastFingers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8B1FF2-735D-6412-188E-FAE9AE64FF6B}|Assembly-CSharp.csproj|c:\\thegames\\fastfingers\\assets\\scripts\\keyboardbuttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8B1FF2-735D-6412-188E-FAE9AE64FF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardbuttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardButtonGame.cs",
+              "DocumentMoniker": "C:\\TheGames\\FastFingers\\Assets\\Scripts\\KeyboardButtonGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyboardButtonGame.cs",
+              "ToolTip": "C:\\TheGames\\FastFingers\\Assets\\Scripts\\KeyboardButtonGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyboardButtonGame.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwLUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:52:44.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

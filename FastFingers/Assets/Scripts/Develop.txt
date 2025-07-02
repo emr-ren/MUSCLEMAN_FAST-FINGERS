@@ -1,0 +1,7 @@
+bu kod sorunsuz calisiyor simdi oyuna zorluk modu eklemek istiyorum mesela sadece sayilar sadece harfler sadece yon tuslari ve en zoru olan hepsi olarak 4 mod eklemek istiyorum 
+
+
+1. Modlar olusturulacak
+2. Hangi Mod aciksa onun tuslari beyaz renkte gozukecek digerlerinin materyali siyah olacak
+3. Modlarin zorluklari olacak kolay orta zor seklinde bunlarin da zamanlari ayarlancak
+4. Puan sistemi ve yanlis basim oldugunda oyun durdurulmasi ve max skor ekrani getirilecek
